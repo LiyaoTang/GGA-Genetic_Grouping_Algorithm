@@ -1,0 +1,19 @@
+#Wed Dec 02 18:17:00 CST 2015
+eclipse.preferences.version=1
+encoding//src/com/fay/ABH/Ant.java=UTF-8
+encoding//src/com/fay/ABH/AntSystem.java=UTF-8
+encoding//src/com/fay/CMS/CMSReader.java=UTF-8
+encoding//src/com/fay/GA/HSGA.java=UTF-8
+encoding//src/com/fay/GGA/Ant.java=UTF-8
+encoding//src/com/fay/GGA/AntSystem.java=UTF-8
+encoding//src/com/fay/comparaEx/chromosome.java=UTF-8
+encoding//src/com/fay/domain/Cell.java=UTF-8
+encoding//src/com/fay/domain/Job.java=UTF-8
+encoding//src/com/fay/domain/Machine.java=UTF-8
+encoding//src/com/fay/domain/Operation.java=UTF-8
+encoding//src/com/fay/domain/Vehicle.java=UTF-8
+encoding//src/com/fay/rule/JobRule/JobGP.java=UTF-8
+encoding//src/com/fay/rule/TimeWindowRule/TimeWindowGP.java=UTF-8
+encoding//src/com/fay/scheduler/SimpleScheduler.java=UTF-8
+encoding//src/com/fay/util/Constants.java=UTF-8
+encoding//src/ec/app/fayApp/EvolveTimeWindowRule.java=UTF-8

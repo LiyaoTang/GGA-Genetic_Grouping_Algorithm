@@ -1,0 +1,64 @@
+case1	
+Init avg=42145.614583333336
+time	0.1545
+average	16189
+
+case2	
+Init avg=17268.619791666668
+time	0.247
+average	14578
+
+case3	
+Init avg=46383.973958333336
+time	0.4925
+average	37220
+
+case4	
+Init avg=55687.71354166667
+time	0.46475
+average	43385
+
+case5	
+Init avg=70465.48958333333
+time	0.883
+average	51493
+
+case6	
+Init avg=225925.02604166666
+time	2.03175
+average	160855
+
+case7	
+Init avg=225795.00520833334
+time	2.64775
+average	194738
+
+case8	
+Init avg=306187.9427083333
+time	3.80975
+average	232013
+
+case9	
+Init avg=266588.6979166666
+time	4.14725
+average	206169
+
+case10	
+Init avg=682357.4791666666
+time	7.68025
+average	466848
+
+case11	
+Init avg=831222.5885416666
+time	9.76725
+average	656476
+
+case12	
+Init avg=893731.2552083334
+time	11.80275
+average	738553
+
+case13	
+Init avg=1144548.75
+time	15.0445
+average	894014

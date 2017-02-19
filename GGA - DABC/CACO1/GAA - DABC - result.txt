@@ -1,0 +1,95 @@
+case1	
+initial best = 375.5
+initial best = 375.5
+initial best = 375.5
+initial best = 375.5
+time	0.45675
+average	376
+
+case2	
+initial best = 484.6
+initial best = 484.6
+initial best = 484.6
+initial best = 484.6
+time	1.09625
+average	480
+
+case3	
+initial best = 373.09999999999997
+initial best = 334.5
+initial best = 347.90000000000003
+initial best = 334.5
+time	1.723
+average	334
+
+case4	
+initial best = 2476.5
+initial best = 2153.8
+initial best = 2302.0
+initial best = 2080.3999999999996
+time	3.09825
+average	1973
+
+case5	
+initial best = 4336.9
+initial best = 5065.1
+initial best = 4149.4
+initial best = 4706.7
+time	4.61475
+average	3982
+
+case6	
+initial best = 8332.199999999999
+initial best = 8037.099999999999
+initial best = 7766.500000000001
+initial best = 7882.799999999999
+time	6.765
+average	6693
+
+case7	
+initial best = 11832.199999999999
+initial best = 11151.6
+initial best = 10804.0
+initial best = 8558.300000000001
+time	13.719
+average	8330
+
+case8	
+initial best = 13397.1
+initial best = 14672.100000000004
+initial best = 13331.3
+initial best = 14875.500000000002
+time	16.96475
+average	11477
+
+case9	
+initial best = 25171.200000000004
+initial best = 22463.700000000004
+initial best = 23355.000000000004
+initial best = 22672.800000000003
+time	20.73
+average	21653
+
+case10	
+initial best = 31557.299999999996
+initial best = 28420.600000000017
+initial best = 28179.5
+initial best = 30992.199999999997
+time	25.7135
+average	24985
+
+case11	
+initial best = 44686.500000000015
+initial best = 44994.799999999996
+initial best = 44251.49999999999
+initial best = 46086.799999999996
+time	27.9985
+average	41735
+
+case12	
+initial best = 55392.40000000001
+initial best = 53942.40000000001
+initial best = 56571.899999999994
+initial best = 54801.899999999994
+time	33.12575
+average	48896

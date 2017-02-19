@@ -1,0 +1,24 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=352951.2 Adjusted=2.833245E-6 Hits=0
+Tree 0:
+Add(DD, PT)
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=352951.2 Adjusted=2.833245E-6 Hits=0
+Tree 0:
+Add(PT, DD)
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=352951.2 Adjusted=2.833245E-6 Hits=0
+Tree 0:
+Add(Add(Sub(DD, IT), PT), IT)

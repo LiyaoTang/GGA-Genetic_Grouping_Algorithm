@@ -1,0 +1,39 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.0827974 Adjusted=0.4801235 Hits=1
+Tree 0:
++(-(*(y, +(+(y, y), -(x, y))), *(*(y, y), y)), y)
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.63995486 Adjusted=0.6097729 Hits=1
+Tree 0:
++(y, *(x, +(y, y)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3929249 Adjusted=0.7179138 Hits=1
+Tree 0:
++(+(*(y, x), y), *(x, x))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=10
+Tree 0:
++(y, *(x, +(*(y, x), y)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=10
+Tree 0:
++(y, *(x, +(*(y, x), y)))

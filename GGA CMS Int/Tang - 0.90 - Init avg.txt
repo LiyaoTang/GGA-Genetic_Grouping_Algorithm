@@ -1,0 +1,67 @@
+case1	
+Init avg=23995.291666666664
+time	0.1085
+average	8094
+
+case2	
+Init avg=8409.114583333334
+time	0.1405
+average	7253
+
+case3	
+Init avg=23032.395833333336
+time	0.3805
+average	18476
+
+case4	
+Init avg=27709.494791666664
+time	0.35925
+average	21446
+
+case5	
+Init avg=34611.171875
+time	0.673
+average	25544
+
+case6	
+Init avg=113626.58854166667
+time	1.576
+average	79749
+
+case7	
+Init avg=111559.51041666666
+time	1.7675
+average	95480
+
+case8	
+Init avg=149828.6458333333
+time	2.91175
+average	115306
+
+case9	
+Init avg=132896.1875
+time	3.12125
+average	100431
+
+case10	
+Init avg=331413.3072916667
+time	5.90325
+average	232854
+
+case11	
+Init avg=413999.03125
+time	7.825
+average	320959
+
+case12	
+Init avg=452468.4427083333
+time	10.27375
+average	356676
+
+case13	
+Init avg=564524.15625
+time	13.55925
+average	437664
+
+
+Process finished with exit code 0

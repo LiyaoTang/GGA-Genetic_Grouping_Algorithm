@@ -1,0 +1,1506 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1137869.0 Adjusted=8.78835E-7 Hits=0
+Tree 0:
+ (Mul (Div (Div (Add W OP) (Div RT 0.036709780463681674))
+     (Add (Mul W DD) (Add PT 0.036709780463681674)))
+     (Add (Sub (Div OP 0.036709780463681674) (Mul
+         RT RT)) (Div (Mul DD PT) (Mul RT PT))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1137862.0 Adjusted=8.788404E-7 Hits=0
+Tree 0:
+ (Mul (Div (Div (Add W OP) (Div RT 0.036709780463681674))
+     (Add (Mul W DD) (Add PT 0.036709780463681674)))
+     (Add (Sub (Div OP 0.036709780463681674) (Mul
+         RT RT)) (Div (Add OP OP) (Mul RT PT))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1137790.9 Adjusted=8.788954E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+     WT))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub 0.036709780463681674
+     WT) (Mul RT 0.036709780463681674)))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul DD W)) (Sub (Div
+         0.036709780463681674 OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT WT)) (Add (Mul
+         PT WT) (Sub 0.036709780463681674 PT)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1137790.9 Adjusted=8.788954E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Sub OP
+     OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub 0.036709780463681674
+     WT) (Mul RT 0.036709780463681674)))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul DD W)) (Sub (Div
+         0.036709780463681674 OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT WT)) (Add (Mul
+         PT WT) (Sub 0.036709780463681674 PT)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1137790.9 Adjusted=8.788954E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+     WT))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub 0.036709780463681674
+     WT) (Mul RT 0.036709780463681674)))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul DD W)) (Sub (Sub
+         DD WT) (Add OP 0.036709780463681674))) (Mul
+     (Sub PT PT) (Add (Mul PT WT) (Sub 0.036709780463681674
+     PT)))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1137497.0 Adjusted=8.791224E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+     WT))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub 0.036709780463681674
+     WT) (Mul RT (Add (Sub (Add (Sub W PT) (Mul
+     OP 0.036709780463681674)) (Mul (Div W W)
+     (Sub RT W))) (Div RT PT)))))) (Sub (Mul (Sub
+     (Sub OP WT) (Mul DD W)) (Sub (Div 0.036709780463681674
+     OP) (Add OP 0.036709780463681674))) (Mul
+     RT 0.036709780463681674)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1134782.0 Adjusted=8.8122573E-7 Hits=0
+Tree 0:
+ (Add (Sub (Div (Div (Add WT PT) (Add RT PT))
+     (Sub (Sub WT WT) (Div W 0.036709780463681674)))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub 0.036709780463681674
+         WT) (Mul RT 0.036709780463681674)))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul DD W)) (Sub (Div
+         0.036709780463681674 OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT WT)) (Add (Mul
+         PT WT) (Sub (Div 0.036709780463681674 RT)
+         (Sub 0.036709780463681674 PT))))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1134757.6 Adjusted=8.8124466E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+     WT))) (Add (Add RT W) (Div (Sub 0.036709780463681674
+     WT) (Mul RT (Add (Sub (Add (Sub W PT) (Mul
+     OP 0.036709780463681674)) (Mul (Div W W)
+     (Sub RT W))) (Add OP 0.036709780463681674))))))
+     (Sub (Mul (Sub (Sub OP WT) (Mul DD W)) (Sub
+         (Div 0.036709780463681674 OP) (Add OP 0.036709780463681674)))
+         (Mul RT 0.036709780463681674)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1134757.6 Adjusted=8.8124466E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+     WT))) (Add (Add RT W) (Div (Sub 0.036709780463681674
+     WT) (Mul RT (Add (Sub (Add (Sub W PT) (Div
+     (Sub 0.036709780463681674 WT) (Div PT OP)))
+     (Mul (Div W W) (Sub RT W))) (Add OP 0.036709780463681674))))))
+     (Sub (Mul (Sub (Sub OP WT) (Mul DD W)) (Sub
+         (Div 0.036709780463681674 OP) (Add OP 0.036709780463681674)))
+         (Mul RT 0.036709780463681674)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1134749.1 Adjusted=8.8125125E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+     WT))) (Add (Add RT W) (Div (Sub 0.036709780463681674
+     WT) (Mul RT (Add (Sub (Add (Sub W PT) (Mul
+     OP 0.036709780463681674)) (Mul (Div W W)
+     (Sub RT W))) (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W))))))) (Sub (Mul
+     (Sub (Sub OP WT) 0.036709780463681674) (Sub
+     (Div 0.036709780463681674 OP) (Add OP 0.036709780463681674)))
+     (Mul RT 0.036709780463681674)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1129590.8 Adjusted=8.852756E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Sub OP
+     OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+     0.036709780463681674 RT) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul RT DD)) (Sub (Div
+         (Sub (Sub OP WT) (Mul RT DD)) OP) (Add OP
+         0.036709780463681674))) (Mul (Mul (Sub DD
+     WT) (Div RT WT)) (Add 0.036709780463681674
+     PT))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1129590.8 Adjusted=8.852756E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Mul (Div WT RT) (Mul (Sub
+     0.036709780463681674 DD) (Div (Mul DD OP)
+     (Mul PT W))))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+     0.036709780463681674 RT) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul RT DD)) (Sub (Div
+         (Sub (Sub OP WT) (Mul RT DD)) OP) (Add OP
+         0.036709780463681674))) (Mul (Mul (Sub DD
+     WT) (Div RT WT)) (Add 0.036709780463681674
+     PT))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1129590.8 Adjusted=8.852756E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Sub OP
+     OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+     0.036709780463681674 RT) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul RT DD)) (Sub (Div
+         (Sub (Sub OP WT) (Mul RT DD)) OP) (Add OP
+         0.036709780463681674))) (Mul (Mul (Sub DD
+     WT) (Div RT WT)) (Add 0.036709780463681674
+     PT))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1125549.0 Adjusted=8.884545E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Sub OP
+     OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+     0.036709780463681674 RT) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul RT DD)) (Sub (Div
+         (Sub RT W) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT WT)) (Add 0.036709780463681674
+         PT))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1125531.0 Adjusted=8.884687E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Sub RT W) (Div (Mul DD OP)
+     (Sub OP OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+     0.036709780463681674 RT) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul RT DD)) (Sub (Div
+         (Sub (Sub OP WT) (Mul RT DD)) OP) (Add OP
+         0.036709780463681674))) (Mul (Mul (Sub DD
+     WT) (Div RT (Add (Add (Sub (Sub WT OP) (Mul
+     (Add OP WT) WT)) (Sub (Add WT OP) (Add DD
+     W))) (Div (Mul (Add (Add W PT) (Sub WT PT))
+     (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div (Mul
+     (Mul (Mul (Div 0.036709780463681674 RT) (Add
+         W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+     PT)))))) (Add 0.036709780463681674 PT))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1125531.0 Adjusted=8.884687E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Sub RT W) (Div (Mul DD OP)
+     (Sub OP OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+     0.036709780463681674 RT) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub OP
+         WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+         (Sub WT OP) (Mul (Add OP WT) WT)) (Sub (Add
+         WT OP) (Add DD W))) (Div (Mul (Add (Add W
+         PT) (Sub WT PT)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div (Mul
+         (Mul (Mul (Div 0.036709780463681674 RT) (Add
+             W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Add 0.036709780463681674 PT))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1125531.0 Adjusted=8.884687E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Sub RT W) (Div (Mul DD OP)
+     (Sub OP OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+     0.036709780463681674 RT) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP (Sub DD WT)) (Mul RT DD))
+         (Sub (Div (Sub (Sub OP WT) (Mul RT DD)) OP)
+             (Add OP 0.036709780463681674))) (Mul (Mul
+     (Sub DD WT) (Div RT (Add (Add (Sub (Sub WT
+     OP) (Mul (Add OP WT) WT)) (Sub (Add WT OP)
+     (Add DD W))) (Div (Mul (Add (Add W PT) (Sub
+     WT PT)) (Div (Mul (Add (Add OP 0.036709780463681674)
+     W) (Mul (Sub 0.036709780463681674 DD) (Div
+     (Mul DD OP) (Mul PT W)))) DD)) (Div (Mul
+     (Mul (Mul (Div 0.036709780463681674 RT) (Add
+         W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+     PT)))))) (Add 0.036709780463681674 PT))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1125531.0 Adjusted=8.884687E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Sub RT W) (Div (Mul DD OP)
+     (Sub OP OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+     0.036709780463681674 RT) WT) (Mul RT (Add
+     (Sub DD WT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Sub (Div (Sub (Sub OP WT) (Mul RT
+         DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+             (Sub WT OP) (Mul (Add OP WT) WT)) (Sub (Add
+             WT OP) (Add DD W))) (Div (Div WT WT) (Div
+             (Mul (Mul (Mul (Div 0.036709780463681674
+                 RT) (Add W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+             PT)))))) (Add 0.036709780463681674 PT))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120829.9 Adjusted=8.9219526E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Sub RT W) (Div (Mul DD OP)
+     (Sub OP OP))) (Add (Div WT RT) (Div (Sub
+     (Mul 0.036709780463681674 RT) WT) (Mul RT
+     (Add (Mul (Div WT RT) (Mul PT W)) (Div (Sub
+         W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Sub (Div (Sub (Sub OP WT) (Mul RT
+         DD)) OP) (Add OP 0.036709780463681674)))
+         (Sub (Sub 0.036709780463681674 WT) (Add OP
+             0.036709780463681674))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120829.9 Adjusted=8.9219526E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Sub RT W) (Div RT WT)) (Add
+     (Mul (Div (Sub 0.036709780463681674 WT) (Div
+         PT OP)) (Mul PT W)) (Div (Sub (Mul 0.036709780463681674
+     RT) WT) (Mul RT (Add (Mul (Div WT RT) (Mul
+     PT W)) (Div (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub OP
+         WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+         (Sub (Sub WT OP) (Mul (Add OP WT) WT))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120829.9 Adjusted=8.9219526E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Sub RT W) (Div RT WT)) (Add
+     (Mul (Div (Sub 0.036709780463681674 WT) (Div
+         PT OP)) (Mul PT W)) (Div (Sub (Mul 0.036709780463681674
+     RT) WT) (Mul RT (Add (Mul (Div WT RT) (Mul
+     PT W)) (Div (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Add OP 0.036709780463681674)
+         (Mul (Mul 0.036709780463681674 RT) (Div WT
+             PT))) (Sub (Div (Sub (Sub OP WT) (Mul RT
+         DD)) OP) (Add OP 0.036709780463681674)))
+         (Sub (Sub WT OP) (Mul (Add OP WT) WT))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120642.2 Adjusted=8.9234464E-7 Hits=0
+Tree 0:
+ (Add (Sub (Mul (Mul (Mul 0.036709780463681674
+     RT) (Div WT PT)) (Div (Mul DD OP) (Sub OP
+     OP))) (Add (Mul (Div (Sub 0.036709780463681674
+     WT) (Div PT OP)) (Mul PT W)) (Div (Add OP
+     0.036709780463681674) (Mul RT (Add (Mul (Div
+     WT RT) (Mul PT W)) (Div (Sub W PT) (Mul RT
+     0.036709780463681674))))))) (Sub (Mul (Sub
+     (Sub OP WT) (Mul RT DD)) (Sub (Div (Sub (Add
+     (Sub (Mul (Sub RT W) (Div (Mul DD OP) (Sub
+         OP OP))) (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+         0.036709780463681674 RT) WT) (Mul RT (Add
+         DD (Div (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT (Mul 0.036709780463681674 RT))))
+         (Sub (Div (Sub (Sub OP WT) (Mul RT DD)) OP)
+             (Sub 0.036709780463681674 WT))) (Mul (Mul
+         (Sub DD WT) (Div RT (Add (Add (Sub (Sub WT
+         OP) (Mul (Add OP WT) WT)) (Sub (Add WT OP)
+         (Add DD W))) (Div PT OP)))) (Add 0.036709780463681674
+         PT)))) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Mul 0.036709780463681674 RT) (Div
+         WT PT)) (Div (Mul DD OP) (Div WT WT)))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120637.8 Adjusted=8.923482E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+         0.036709780463681674 RT) WT) (Mul RT (Add
+         (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+         PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub OP
+         WT) (Mul RT DD)) OP) (Div (Mul (Mul (Mul
+         (Div 0.036709780463681674 RT) (Add W DD))
+         RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))) (Mul (Mul (Sub DD WT) (Div RT (Add
+     (Add (Sub (Sub WT OP) (Mul (Add OP WT) WT))
+         (Sub (Add WT OP) (Add DD W))) (Div (Mul (Add
+     (Add W PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+     (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div (Mul
+     (Mul (Mul (Div 0.036709780463681674 RT) (Add
+         W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+     PT)))))) (Add 0.036709780463681674 PT))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Sub (Div (Sub (Sub OP WT) (Mul RT
+         DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add 0.036709780463681674
+             PT))) (Add 0.036709780463681674 PT))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120637.8 Adjusted=8.923482E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+         0.036709780463681674 RT) WT) (Mul RT (Add
+         (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+         PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub OP
+         WT) (Mul RT DD)) OP) (Div (Mul (Mul (Mul
+         (Div 0.036709780463681674 RT) (Add W DD))
+         RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))) (Mul (Mul (Sub DD WT) (Div RT (Add
+     (Add (Sub (Sub WT OP) (Mul (Add OP WT) WT))
+         (Sub (Add WT OP) (Add DD W))) (Div (Mul (Add
+     (Add W PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+     (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div (Mul
+     (Mul (Mul (Div 0.036709780463681674 RT) (Add
+         W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+     PT)))))) (Add 0.036709780463681674 PT))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Sub (Div (Sub (Sub OP WT) (Mul RT
+         DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add 0.036709780463681674
+             PT))) (Add 0.036709780463681674 PT))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120637.8 Adjusted=8.923482E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+         0.036709780463681674 RT) WT) (Mul RT (Add
+         (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+         PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub OP
+         WT) (Mul RT DD)) OP) (Div (Mul (Mul (Mul
+         (Div 0.036709780463681674 RT) (Add W DD))
+         RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))) (Mul (Mul (Sub DD WT) (Div RT (Add
+     (Add (Sub (Sub WT OP) (Mul (Add OP WT) WT))
+         (Sub (Add WT OP) (Add DD W))) (Div (Mul (Add
+     (Add W PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+     (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div (Mul
+     (Mul (Mul (Div 0.036709780463681674 RT) (Add
+         W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+     PT)))))) (Add 0.036709780463681674 PT))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Sub (Div (Sub (Sub OP WT) (Mul RT
+         DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add 0.036709780463681674
+             PT))) (Add 0.036709780463681674 (Sub WT PT)))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120423.5 Adjusted=8.9251887E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+         0.036709780463681674 RT) WT) (Mul RT (Add
+         (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+         PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub (Sub
+         (Div (Sub (Sub OP WT) W) OP) (Mul RT 0.036709780463681674))
+         WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+         (Sub WT OP) (Mul (Add OP WT) WT)) (Sub (Add
+         WT OP) (Add DD W))) (Div (Mul (Add (Add W
+         PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul RT DD)))) DD)) (Div (Mul
+         (Mul (Mul (Div 0.036709780463681674 RT) (Add
+             W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Mul (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+         WT)))) (Mul (Mul (Sub DD WT) (Div RT (Add
+         (Add (Sub (Sub WT OP) (Mul (Add OP WT) WT))
+             (Sub (Add WT OP) (Add DD W))) (Div (Mul (Add
+         (Add W PT) (Sub WT PT)) (Div (Sub (Add WT
+         OP) (Add DD W)) DD)) (Div (Mul (Mul (Mul
+         (Div 0.036709780463681674 RT) (Add W DD))
+         RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Add 0.036709780463681674 PT))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120423.5 Adjusted=8.9251887E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+         0.036709780463681674 RT) WT) (Mul RT (Add
+         (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+         PT) (Mul RT 0.036709780463681674))))))) (Sub
+     (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub (Sub
+         (Div (Sub (Sub OP WT) W) OP) (Add OP 0.036709780463681674))
+         WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+         (Sub WT OP) (Mul (Mul (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+         WT))) WT)) (Sub (Add WT OP) (Add DD W)))
+         (Div (Mul (Add (Add W PT) (Div (Sub W PT)
+             (Mul RT 0.036709780463681674))) (Div (Mul
+             (Add (Add OP 0.036709780463681674) W) (Mul
+             (Sub 0.036709780463681674 DD) (Div (Mul DD
+             OP) (Mul RT DD)))) DD)) (Div (Mul (Mul (Mul
+             (Div 0.036709780463681674 RT) (Add W DD))
+             RT) (Div RT WT)) (Add 0.036709780463681674
+             PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Sub (Div (Sub (Sub OP WT) (Mul RT
+         DD)) OP) (Sub 0.036709780463681674 WT)))
+         (Mul (Mul (Sub DD WT) (Sub (Sub OP WT) (Mul
+             (Mul 0.036709780463681674 RT) (Div WT PT))))
+             (Add 0.036709780463681674 PT))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1120381.8 Adjusted=8.925521E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Sub (Mul 0.036709780463681674 RT) WT)
+         (Div (Sub (Mul 0.036709780463681674 RT) WT)
+             (Mul RT (Add (Mul (Div WT RT) (Mul PT W))
+                 (Div (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub (Sub
+         (Div (Sub (Sub OP WT) W) OP) (Mul RT 0.036709780463681674))
+         WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+             (Sub WT OP) (Mul (Add OP WT) WT)) (Sub (Add
+             WT OP) (Add DD W))) (Div (Mul (Add (Add W
+             PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+             (Div (Mul (Add (Add OP 0.036709780463681674)
+                 W) (Mul (Sub 0.036709780463681674 DD) (Div
+                 (Mul DD OP) (Mul RT DD)))) DD)) (Div (Mul
+             (Mul (Mul (Div 0.036709780463681674 RT) (Add
+                 W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+             PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Mul (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT)) (Div (Mul DD OP) (Div WT
+         WT)))) (Mul (Mul (Sub DD WT) (Div RT (Add
+         (Add (Sub (Sub WT OP) (Mul (Add OP WT) WT))
+             (Sub (Add WT OP) (Add DD W))) (Div (Mul (Add
+         (Add W PT) (Sub WT PT)) (Div (Sub (Add WT
+         OP) (Add DD W)) DD)) (Div (Mul (Mul (Mul
+         (Div 0.036709780463681674 RT) (Add W DD))
+         RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Add 0.036709780463681674 PT))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1119926.0 Adjusted=8.9291535E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Mul (Mul 0.036709780463681674
+         RT) (Div WT PT))) (Sub (Div (Sub (Sub (Sub
+         (Div (Sub (Sub OP WT) W) OP) (Add OP 0.036709780463681674))
+         WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+             (Sub WT OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+             WT OP) (Add DD W))) (Div (Mul (Add (Add W
+             PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+             (Div (Mul (Add (Add OP 0.036709780463681674)
+                 W) (Mul (Sub 0.036709780463681674 DD) (Div
+                 (Mul DD OP) (Mul RT DD)))) DD)) (Div (Mul
+             (Mul (Mul (Div 0.036709780463681674 RT) (Add
+                 W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+             PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1119916.9 Adjusted=8.929226E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add OP 0.036709780463681674)) WT)
+             (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+             (Sub WT OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+             WT OP) (Add DD W))) (Div (Mul (Add (Add W
+             PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+             (Div (Mul (Add (Add OP 0.036709780463681674)
+                 W) (Mul (Sub 0.036709780463681674 DD) (Div
+                 (Mul DD OP) (Mul RT DD)))) DD)) (Div (Mul
+             (Mul (Mul (Div 0.036709780463681674 RT) (Add
+                 W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+             PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1119916.9 Adjusted=8.929226E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT (Add OP
+         0.036709780463681674))) (Div (Sub W PT) (Mul
+         RT 0.036709780463681674))))))) (Sub (Mul
+     (Sub (Sub OP WT) (Div RT WT)) (Sub (Div (Sub
+     (Sub (Sub (Div (Sub (Sub OP WT) W) OP) (Add
+         OP 0.036709780463681674)) WT) (Mul RT DD))
+     OP) (Add OP 0.036709780463681674))) (Mul
+     (Mul (Sub DD WT) (Div RT (Add (Add (Sub (Sub
+         WT OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Add DD W))) (Div (Mul (Add (Add W
+         PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul RT DD)))) DD)) (Div (Mul
+         (Mul (Mul (Div 0.036709780463681674 RT) (Add
+             W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1119916.9 Adjusted=8.929226E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add OP 0.036709780463681674)) WT)
+             (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+             (Sub WT OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+             WT OP) (Add DD W))) (Div (Mul (Add (Add W
+             PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+             (Div (Mul (Add (Add OP 0.036709780463681674)
+                 W) (Mul (Sub 0.036709780463681674 DD) (Div
+                 (Mul DD OP) (Mul RT DD)))) DD)) (Div (Mul
+             (Mul (Mul (Div 0.036709780463681674 RT) (Add
+                 W DD)) RT) (Div RT WT)) (Sub (Sub OP WT)
+             (Mul RT DD))))))) (Sub (Sub OP WT) (Mul RT
+             DD))))) (Sub (Mul (Sub (Sub OP (Sub DD WT))
+     (Mul RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+     W) (Mul (Sub 0.036709780463681674 DD) (Div
+     (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116368.2 Adjusted=8.95761E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT (Add OP
+         0.036709780463681674))) (Div (Sub W PT) (Mul
+         RT 0.036709780463681674))))))) (Sub (Mul
+     (Sub (Sub (Mul (Sub (Sub OP (Sub DD WT))
+         (Mul RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT))
+         (Div RT WT)) (Sub (Div (Sub (Sub (Sub (Div
+     (Sub (Sub OP WT) W) OP) (Add OP 0.036709780463681674))
+     WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+         (Sub WT OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Add DD W))) (Div (Mul (Add (Add W
+         PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul RT DD)))) DD)) (Div (Mul
+         (Mul (Mul (Div 0.036709780463681674 RT) (Add
+             W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116368.2 Adjusted=8.95761E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT (Add OP
+         0.036709780463681674))) (Div (Sub W PT) (Mul
+         RT 0.036709780463681674))))))) (Sub (Mul
+     (Sub (Sub (Mul (Sub (Sub OP (Sub DD WT))
+         (Mul RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT))
+         (Div RT WT)) (Sub (Div (Sub (Sub (Sub (Div
+     (Sub (Sub OP WT) W) OP) (Add OP 0.036709780463681674))
+     WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+         (Sub WT OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Add DD W))) (Div (Mul (Add (Add W
+         PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Sub
+             OP WT))) DD)) (Div (Mul (Mul (Mul (Div 0.036709780463681674
+         RT) (Add W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116368.2 Adjusted=8.95761E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT (Add OP
+         0.036709780463681674))) (Div (Sub W PT) (Mul
+         RT 0.036709780463681674))))))) (Sub (Mul
+     (Sub (Sub (Mul (Sub (Sub OP (Sub DD WT))
+         (Mul RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT))
+         (Div RT WT)) (Sub (Div (Sub (Sub (Sub (Div
+     (Sub (Sub OP WT) W) OP) (Add OP 0.036709780463681674))
+     WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+         (Div RT WT) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Add DD W))) (Div (Mul (Add (Add W
+         PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul RT DD)))) DD)) (Div (Mul
+         (Mul (Mul (Div 0.036709780463681674 RT) (Add
+             W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116368.2 Adjusted=8.95761E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT (Add OP
+         0.036709780463681674))) (Div (Sub W PT) (Mul
+         RT 0.036709780463681674))))))) (Sub (Mul
+     (Sub (Sub (Mul (Sub (Sub OP (Sub DD WT))
+         (Mul RT DD)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT))
+         (Div RT WT)) (Sub (Div (Sub (Sub (Sub (Div
+     (Sub (Sub OP WT) W) OP) (Add OP 0.036709780463681674))
+     WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+     (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+         (Div RT WT) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Add DD W))) (Div (Mul (Add (Add W
+         PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Mul
+             (Div 0.036709780463681674 RT) (Add W DD))))
+             DD)) (Div (Mul (Mul (Mul (Div 0.036709780463681674
+         RT) (Add W DD)) RT) (Div RT WT)) (Add 0.036709780463681674
+         PT)))))) (Sub (Add OP 0.036709780463681674)
+         (Mul RT DD))))) (Sub (Mul (Sub (Sub OP (Sub
+     DD WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     OP 0.036709780463681674) W) (Mul (Sub 0.036709780463681674
+     DD) (Div (Mul DD OP) (Mul PT W)))) DD)) (Div
+     WT WT)))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div (Mul DD OP)
+             (Mul PT W)))) DD))) WT) (Mul RT DD)) OP)
+         (Add OP 0.036709780463681674))) (Mul (Mul
+         (Sub DD WT) (Div RT (Add (Add (Sub (Sub WT
+         OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Mul RT 0.036709780463681674))) (Div
+         (Mul (Add (Add W PT) (Div (Sub W PT) (Mul
+             RT 0.036709780463681674))) (Mul (Mul 0.036709780463681674
+             RT) (Div WT (Mul 0.036709780463681674 RT))))
+         (Div (Mul (Mul (Mul (Div 0.036709780463681674
+             RT) (Add W DD)) RT) (Div RT WT)) (Sub (Sub
+             OP WT) (Mul RT DD))))))) (Sub (Sub OP WT)
+         (Mul RT DD))))) (Sub (Mul (Sub (Sub OP (Sub
+     DD WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     (Mul (Div (Sub 0.036709780463681674 WT) (Div
+         PT OP)) (Mul PT W)) (Div (Sub (Div RT (Add
+     0.036709780463681674 PT)) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674)))))) W)
+     (Mul (Sub 0.036709780463681674 DD) (Div (Mul
+         DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div WT (Mul PT
+             W)))) DD))) WT) (Mul RT DD)) OP) (Add OP
+         0.036709780463681674))) (Mul (Mul (Sub DD
+         WT) (Div RT (Add (Add (Sub (Sub WT OP) (Mul
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Mul RT 0.036709780463681674))) (Div
+         (Mul (Add (Add W PT) (Div (Sub W PT) (Mul
+             RT 0.036709780463681674))) (Mul (Mul 0.036709780463681674
+             RT) (Div WT (Mul 0.036709780463681674 RT))))
+         (Div (Mul (Mul (Mul (Div 0.036709780463681674
+             RT) (Add W DD)) RT) (Div RT WT)) (Sub (Sub
+             OP WT) (Mul RT DD))))))) (Sub (Sub OP WT)
+         (Mul RT DD))))) (Sub (Mul (Sub (Sub OP (Sub
+     DD WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     (Mul (Div (Sub 0.036709780463681674 WT) (Div
+         PT OP)) (Mul PT W)) (Div (Sub (Div RT (Add
+     0.036709780463681674 PT)) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674)))))) W)
+     (Mul (Sub 0.036709780463681674 DD) (Div (Mul
+         DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div (Mul DD OP)
+             (Mul PT W)))) DD))) WT) (Mul RT DD)) OP)
+         (Add OP 0.036709780463681674))) (Mul (Mul
+         (Sub DD WT) (Div WT RT)) (Sub (Sub OP WT)
+         (Mul RT DD))))) (Sub (Mul (Sub (Sub OP (Sub
+     DD WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     (Mul (Div (Sub 0.036709780463681674 WT) (Div
+         PT OP)) (Mul PT W)) (Div (Sub (Div RT (Add
+     0.036709780463681674 PT)) WT) (Mul RT (Sub
+     (Sub OP WT) W)))) W) (Mul (Sub 0.036709780463681674
+     DD) (Div (Mul DD OP) (Mul PT W)))) DD)) (Div
+     WT WT)))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Div (Sub (Sub
+             OP WT) W) OP) W) OP) (Add (Mul (Div (Sub
+             0.036709780463681674 WT) (Div PT OP)) (Mul
+             PT W)) (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul PT W)))) DD))) WT) (Mul
+             RT DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+             (Sub WT OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+             WT OP) (Mul RT 0.036709780463681674))) (Div
+             (Mul (Add (Add W PT) (Div (Sub W PT) (Mul
+                 RT 0.036709780463681674))) (Mul (Mul 0.036709780463681674
+                 RT) (Div WT (Mul 0.036709780463681674 RT))))
+             (Div (Mul (Mul (Mul (Div 0.036709780463681674
+                 RT) (Add W DD)) RT) (Div RT WT)) (Sub (Sub
+                 OP WT) (Mul RT DD))))))) (Sub (Sub OP WT)
+             (Mul RT DD))))) (Sub (Mul (Sub (Sub OP (Sub
+     DD WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     (Mul (Div (Sub 0.036709780463681674 WT) (Div
+         PT OP)) (Mul PT W)) (Div (Sub (Mul (Sub 0.036709780463681674
+     DD) (Div (Mul DD OP) (Mul PT W))) WT) (Mul
+     RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+     (Sub W PT) (Mul RT 0.036709780463681674))))))
+     W) (Mul (Sub 0.036709780463681674 DD) (Div
+     (Mul DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div WT (Mul PT
+             W)))) DD))) WT) (Mul RT DD)) OP) (Add OP
+         0.036709780463681674))) (Mul (Mul (Sub DD
+         WT) (Div RT (Add (Add (Sub (Sub WT OP) (Mul
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Mul RT 0.036709780463681674))) (Div
+         (Mul (Add (Add W PT) (Div (Sub W PT) (Mul
+             RT 0.036709780463681674))) (Mul (Mul 0.036709780463681674
+             RT) (Div WT (Mul 0.036709780463681674 RT))))
+         (Div (Mul (Mul (Mul (Div 0.036709780463681674
+             RT) (Add W DD)) RT) (Div RT WT)) (Sub (Sub
+             OP WT) (Mul RT DD))))))) (Sub (Sub OP WT)
+         (Mul RT DD))))) (Sub (Mul (Sub (Sub OP (Sub
+     DD WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     (Sub (Sub OP (Sub DD WT)) (Mul RT DD)) (Div
+     (Mul (Sub 0.036709780463681674 DD) (Div (Add
+         WT OP) (Mul PT W))) (Mul RT (Add (Mul (Div
+     WT RT) (Mul PT W)) (Div (Sub W PT) (Mul RT
+     0.036709780463681674)))))) W) (Mul (Sub 0.036709780463681674
+     DD) (Div (Mul DD OP) (Mul PT W)))) DD)) (Div
+     WT WT)))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div (Mul DD OP)
+             (Mul PT W)))) DD))) WT) (Mul RT DD)) OP)
+         (Add OP 0.036709780463681674))) (Mul (Mul
+         (Sub DD WT) (Div RT (Add (Add (Sub (Sub WT
+         OP) (Mul (Sub 0.036709780463681674 DD) WT))
+         (Sub (Add WT OP) (Mul RT 0.036709780463681674)))
+         (Div (Mul (Add (Add W PT) (Div (Sub W PT)
+             (Mul RT 0.036709780463681674))) (Mul (Mul
+             0.036709780463681674 RT) (Div WT (Mul 0.036709780463681674
+             RT)))) (Div (Mul (Mul (Mul (Div 0.036709780463681674
+             RT) (Add W DD)) RT) (Div RT WT)) (Sub (Sub
+             OP WT) (Mul RT DD))))))) (Sub (Sub OP WT)
+         0.036709780463681674)))) (Sub (Mul (Sub (Sub
+     OP (Sub DD WT)) (Mul RT DD)) (Div (Mul (Add
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Mul
+         RT DD))))) W) (Mul (Sub 0.036709780463681674
+     DD) (Div (Mul DD OP) (Div (Sub (Sub OP WT)
+     W) OP)))) DD)) (Div WT WT)))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div (Mul DD OP)
+             (Mul PT W)))) DD))) WT) (Mul RT DD)) OP)
+         (Add OP 0.036709780463681674))) (Mul (Mul
+         (Sub DD WT) (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Mul
+         (Sub 0.036709780463681674 DD) (Div (Mul DD
+         OP) (Mul PT W))) WT) (Mul RT (Add (Mul (Div
+         WT RT) (Mul PT W)) (Div (Sub W PT) (Mul RT
+         0.036709780463681674))))))) (Sub (Sub OP
+         WT) (Mul RT DD))))) (Sub (Mul (Sub (Sub OP
+     (Sub DD WT)) (Mul RT DD)) (Div (Mul (Add
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Sub 0.036709780463681674 WT)) OP) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul (Sub 0.036709780463681674
+         DD) (Div (Mul DD OP) (Mul PT W)))))))) W)
+     (Mul (Sub 0.036709780463681674 DD) (Div (Mul
+         DD OP) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div (Mul DD OP)
+             (Mul PT W)))) DD))) WT) (Div RT WT)) OP)
+         (Add OP 0.036709780463681674))) (Mul (Mul
+         (Sub DD WT) (Div RT (Add (Add (Sub (Sub WT
+         OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         (Div (Mul DD OP) (Div (Sub W PT) (Mul RT
+             0.036709780463681674))) OP) (Mul RT 0.036709780463681674)))
+         (Div (Mul (Add (Add W PT) (Div (Sub W PT)
+             (Mul RT 0.036709780463681674))) (Mul (Mul
+             0.036709780463681674 RT) (Div WT (Mul 0.036709780463681674
+             RT)))) (Div (Mul (Mul (Mul (Div 0.036709780463681674
+             RT) (Add W DD)) RT) (Div RT WT)) (Sub (Sub
+             OP WT) (Mul RT DD))))))) (Sub (Sub OP WT)
+         (Mul RT DD))))) (Sub (Mul (Sub OP WT) (Div
+     (Mul (Add (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Sub (Sub OP WT) W)))) W) (Mul (Sub 0.036709780463681674
+         DD) (Div (Mul DD OP) (Mul PT W)))) DD)) (Div
+     WT WT)))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             0.036709780463681674 PT) (Mul (Sub 0.036709780463681674
+             DD) (Div (Mul DD OP) (Mul PT W)))) DD)))
+             WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div (Mul DD OP) (Add
+             (Add (Sub (Sub WT OP) (Mul (Div (Mul (Add
+                 (Add OP 0.036709780463681674) W) (Mul (Sub
+                 0.036709780463681674 DD) (Div (Mul DD OP)
+                 (Mul PT W)))) DD) WT)) (Sub (Add WT OP) (Mul
+                 RT 0.036709780463681674))) (Div (Mul (Add
+             (Add W PT) (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Sub OP WT)))) DD)) (Mul (Mul
+             0.036709780463681674 RT) (Div WT (Mul 0.036709780463681674
+             RT)))) (Mul PT W))))) (Sub (Sub OP WT) (Mul
+             RT DD))))) (Sub (Mul (Sub (Sub OP (Sub (Div
+     RT WT) WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     (Mul (Div (Sub 0.036709780463681674 WT) (Div
+         PT OP)) (Mul PT W)) (Div (Div RT WT) (Mul
+     RT (Add (Mul (Div WT RT) (Mul PT W)) (Mul
+     RT DD))))) W) (Add (Add OP 0.036709780463681674)
+     W)) DD)) (Div WT WT)))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Mul RT DD))) DD)))
+             WT) (Mul RT DD)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Add (Add (Sub
+             (Sub WT OP) (Mul (Div (Mul (Mul (Sub 0.036709780463681674
+             DD) (Div (Mul DD OP) (Mul RT 0.036709780463681674)))
+             (Mul (Sub 0.036709780463681674 DD) (Div (Mul
+                 DD OP) (Mul PT W)))) DD) WT)) (Sub (Add WT
+             OP) (Mul RT OP))) (Div (Mul (Add (Add W PT)
+             (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+             (Mul (Mul 0.036709780463681674 RT) (Div WT
+                 (Mul 0.036709780463681674 RT)))) (Div (Mul
+             (Mul (Mul (Div 0.036709780463681674 RT) (Add
+                 W DD)) RT) (Div RT WT)) (Sub (Sub OP WT)
+             (Mul RT DD))))))) (Sub (Sub OP WT) (Mul RT
+             DD))))) (Sub (Mul (Sub (Sub OP (Sub DD WT))
+     (Mul RT DD)) (Div (Mul (Add (Mul (Sub 0.036709780463681674
+     DD) (Div (Mul DD OP) (Mul PT W))) W) (Mul
+     (Sub 0.036709780463681674 DD) (Div (Div WT
+     WT) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) WT)) DD))) WT) (Div
+             WT WT)) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Div RT (Mul (Div (Sub
+             0.036709780463681674 WT) (Div PT OP)) (Mul
+             PT W)))) (Sub (Sub OP WT) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Div (Mul (Add (Add (Mul (Div (Sub
+         0.036709780463681674 WT) (Div PT OP)) (Mul
+         PT W)) (Div (Sub (Div RT (Add 0.036709780463681674
+         PT)) WT) (Mul RT (Add (Mul (Div WT RT) (Mul
+         PT W)) (Mul RT DD))))) W) (Mul DD OP)) DD))
+         (Div WT WT)))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div (Mul DD OP)
+             (Mul PT W)))) DD))) WT) (Mul RT DD)) OP)
+         (Add OP 0.036709780463681674))) (Mul (Mul
+         (Sub DD WT) (Div RT (Add OP (Div (Mul (Add
+         (Add W PT) (Div (Sub W PT) (Mul RT 0.036709780463681674)))
+         (Mul (Mul 0.036709780463681674 RT) (Div WT
+             (Mul 0.036709780463681674 RT)))) (Div (Mul
+         (Mul (Mul (Div 0.036709780463681674 RT) (Add
+             W DD)) RT) (Div RT WT)) (Sub (Sub OP WT)
+         (Mul RT DD))))))) (Sub (Sub OP WT) (Mul RT
+         DD))))) (Sub (Mul (Sub (Sub OP (Sub DD WT))
+     (Div (Mul (Add (Sub OP WT) W) (Mul (Sub 0.036709780463681674
+         DD) (Div (Mul DD OP) (Div (Sub (Sub OP WT)
+         W) OP)))) DD)) (Div (Mul (Add (Add WT (Sub
+     DD WT)) W) (Mul (Mul (Div (Sub DD WT) (Div
+     PT OP)) (Mul PT W)) (Div (Mul DD OP) (Div
+     (Mul (Add (Add OP 0.036709780463681674) W)
+         (Mul (Sub 0.036709780463681674 DD) (Div (Mul
+             DD OP) (Mul PT W)))) DD)))) DD)) (Div WT
+     WT)))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul RT
+             (Add (Mul (Div WT RT) (Mul PT W)) (Div (Sub
+                 W PT) (Mul RT 0.036709780463681674)))) DD)))
+             WT) (Mul RT (Div WT (Mul 0.036709780463681674
+             RT)))) OP) (Add OP 0.036709780463681674)))
+         (Mul (Mul (Sub DD WT) (Add OP 0.036709780463681674))
+             (Sub (Div (Sub W PT) (Mul RT 0.036709780463681674))
+                 (Mul RT DD))))) (Sub (Mul (Sub (Sub OP (Sub
+     DD WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     (Sub W PT) DD) W) (Mul (Sub 0.036709780463681674
+     DD) (Mul (Div (Sub 0.036709780463681674 WT)
+     (Div PT OP)) (Mul PT W)))) DD)) (Div WT WT)))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Mul (Sub 0.036709780463681674
+             DD) (Mul RT DD)))) DD))) WT) (Mul RT DD))
+             OP) (Add WT OP))) (Mul (Mul (Sub DD WT) (Div
+         RT (Add (Add (Sub (Sub WT OP) RT) (Sub (Add
+         WT OP) (Mul RT 0.036709780463681674))) (Div
+         (Sub (Sub OP WT) W) (Div (Mul (Mul (Mul (Div
+         0.036709780463681674 RT) (Add W DD)) RT)
+         (Div RT WT)) (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         WT (Mul PT W)))) DD))))))) (Sub (Sub OP WT)
+         (Sub (Div (Sub (Sub (Sub (Div (Sub (Sub OP
+             WT) W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div (Mul DD OP)
+             (Mul PT W)))) DD))) WT) (Mul RT DD)) OP)
+             (Add OP 0.036709780463681674)))))) (Sub (Mul
+     (Sub (Sub OP (Sub DD WT)) (Mul RT DD)) (Div
+     (Mul (Add (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Sub
+         RT W))) W) (Mul (Sub 0.036709780463681674
+         DD) (Div (Mul DD OP) (Mul PT W)))) DD)) (Div
+     WT WT)))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div WT (Mul PT
+             W)))) DD))) WT) (Mul RT DD)) OP) (Add OP
+         0.036709780463681674))) (Mul (Mul (Sub DD
+         WT) (Div RT (Add (Add (Sub (Sub WT OP) (Mul
+         (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) (Div
+             (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Mul RT 0.036709780463681674))) (Div
+         (Mul (Add (Add W PT) (Div (Sub W PT) (Mul
+             RT 0.036709780463681674))) (Mul (Sub (Sub
+             (Div (Sub (Div (Sub 0.036709780463681674
+                 WT) (Div PT OP)) W) OP) (Add OP 0.036709780463681674))
+             WT) (Div WT (Mul 0.036709780463681674 RT))))
+         (Div (Mul (Mul (Mul (Div 0.036709780463681674
+             RT) (Add W DD)) RT) (Div RT WT)) (Sub (Sub
+             OP WT) (Mul RT DD))))))) (Sub (Div (Sub (Sub
+         (Sub (Div (Sub (Sub OP WT) W) OP) (Add (Mul
+             (Div (Sub 0.036709780463681674 WT) (Div PT
+                 OP)) (Mul PT W)) (Div (Mul (Add (Add OP 0.036709780463681674)
+             W) (Mul (Sub 0.036709780463681674 DD) 0.036709780463681674))
+             DD))) WT) (Mul RT DD)) OP) (Mul RT DD)))))
+     (Sub (Mul (Sub (Sub OP (Sub DD WT)) (Mul
+         RT DD)) (Div (Mul (Add (Add (Sub (Add (Add
+         OP 0.036709780463681674) W) (Mul RT DD))
+         (Div (Sub (Div RT (Add 0.036709780463681674
+             PT)) WT) (Mul RT (Add (Mul (Div WT RT) (Mul
+             PT W)) (Div (Sub W PT) (Mul RT 0.036709780463681674))))))
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) RT))) DD)) (Div WT WT)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Add (Add (Sub (Mul (Sub RT W) (Div RT WT))
+     (Add (Mul (Div (Sub 0.036709780463681674
+         WT) (Div PT OP)) (Mul PT W)) (Div (Sub (Div
+         RT (Add 0.036709780463681674 PT)) WT) (Mul
+         RT (Add (Mul (Div WT RT) (Mul PT W)) (Div
+         (Sub W PT) (Mul RT 0.036709780463681674)))))))
+     (Sub (Mul (Sub (Sub OP WT) (Div RT WT)) (Sub
+         (Div (Sub (Sub (Sub (Div (Sub (Sub OP WT)
+             W) OP) (Add (Mul (Div (Sub 0.036709780463681674
+             WT) (Div PT OP)) (Mul PT W)) (Div (Mul (Add
+             (Add OP 0.036709780463681674) W) (Mul (Sub
+             0.036709780463681674 DD) (Div (Mul DD OP)
+             (Mul PT W)))) DD))) WT) (Mul RT DD)) OP)
+         (Add OP 0.036709780463681674))) (Mul (Mul
+         (Sub DD WT) (Div RT (Add (Add (Sub (Sub WT
+         OP) (Mul (Div (Mul (Add (Add OP 0.036709780463681674)
+         W) (Mul (Sub 0.036709780463681674 DD) (Div
+         (Mul DD OP) (Mul PT W)))) DD) WT)) (Sub (Add
+         WT OP) (Mul RT 0.036709780463681674))) (Div
+         (Mul (Add (Add W PT) (Div (Sub W PT) (Mul
+             RT 0.036709780463681674))) (Mul (Mul 0.036709780463681674
+             RT) (Div WT (Mul 0.036709780463681674 RT))))
+         (Div (Mul (Mul (Mul (Div 0.036709780463681674
+             RT) (Add W DD)) RT) (Div RT WT)) (Sub (Sub
+             OP WT) (Mul RT DD))))))) (Sub (Sub OP WT)
+         (Mul RT DD))))) (Sub (Mul (Sub (Sub OP (Sub
+     DD WT)) (Mul RT DD)) (Div (Mul (Add (Add
+     (Mul (Div (Sub 0.036709780463681674 WT) (Div
+         PT OP)) (Mul PT W)) (Div (Sub (Div RT (Add
+     0.036709780463681674 PT)) WT) (Mul RT (Add
+     (Mul (Div WT RT) (Mul PT W)) (Div (Sub W
+     PT) (Mul RT 0.036709780463681674)))))) W)
+     (Mul (Sub 0.036709780463681674 DD) (Div (Mul
+         DD OP) (Mul PT W)))) DD)) (Div WT WT)))

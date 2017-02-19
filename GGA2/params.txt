@@ -1,0 +1,1 @@
+-file src/ec/app/myApp/EvolveBatchingRule.params -p stat.gather-full=true -p gp.tree.print-style=c -p gp.tree.c-operators=false

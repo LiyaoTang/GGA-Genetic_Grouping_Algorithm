@@ -1,0 +1,1263 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1139330.0 Adjusted=8.7770803E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     (Mul 0.21381983549760286 SRT)) (Sub (Mul
+     NRET NDD) (Add BN CSD))) (Add (Mul (Div NDD
+     NRET) (Mul NW NDD)) (Add (Sub CN NW) (Div
+     NW CSW)))) (Sub (Add (Div (Mul NRT SDD) (Sub
+     CSW NDD)) (Sub (Mul NDD CSW) (Add CSW SW)))
+     (Sub (Add (Div 0.21381983549760286 SRT) (Mul
+         CN CSD)) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1139330.0 Adjusted=8.7770803E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Add NMRT CN) (Mul 0.21381983549760286
+     SRT)) (Sub (Mul NRET NDD) (Add BN CSD)))
+     (Add (Mul (Div NDD NRET) (Mul NW NDD)) (Add
+         (Sub CN NW) (Div NW CSW)))) (Sub (Add (Div
+     (Mul NRT SDD) (Sub CSW NDD)) (Sub (Mul NDD
+     CSW) (Add CSW SW))) (Sub (Add (Div 0.21381983549760286
+     SRT) (Mul CN CSD)) (Mul (Add BN CSD) (Add
+     NW NDD)))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1136085.5 Adjusted=8.8021466E-7 Hits=0
+Tree 0:
+ (Add (Mul (Sub CSW BN) (Sub (Mul (Div NRET
+     SRT) (Div SDD SW)) (Sub (Div (Div (Add NRET
+     NRET) (Sub SW CSW)) NDD) (Sub 0.21381983549760286
+     CSW)))) (Mul (Add (Div (Sub SRT CSD) (Div
+     NRET SW)) (Div (Add NRT 0.21381983549760286)
+     (Div NW NDD))) (Mul (Sub (Add CN 0.21381983549760286)
+     (Mul NMRT CSD)) (Add (Sub CN NRET) (Mul CSD
+     0.21381983549760286)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1135747.5 Adjusted=8.804766E-7 Hits=0
+Tree 0:
+ (Add (Mul (Add BN CSD) (Add NW NDD)) (Mul
+     CN NW))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1135747.5 Adjusted=8.804766E-7 Hits=0
+Tree 0:
+ (Add (Add (Mul (Add BN CSD) (Add NW NDD))
+     (Mul CN NW)) CSD)
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116887.4 Adjusted=8.953446E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     (Mul 0.21381983549760286 SRT)) (Sub (Mul
+     (Add BN CSD) (Add NW NDD)) (Add BN CSD)))
+     (Add (Mul (Div NDD NRET) (Mul NW NDD)) (Add
+         (Sub CN NW) (Div NW CSW)))) (Sub (Add (Div
+     (Mul NRT SDD) (Sub CSW NDD)) (Sub (Sub (Add
+     (Add NMRT BN) (Mul 0.21381983549760286 NDD))
+     (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Add (Div 0.21381983549760286
+     SRT) (Mul CN SRT)) (Mul (Add BN CSD) (Add
+     NW NDD)))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116508.6 Adjusted=8.956483E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Mul
+     NW NDD)) (Add (Sub CN NW) (Div NW CSW))))
+     (Sub (Add (Div (Mul NRT SDD) (Sub CSW NDD))
+         (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+             (Add CSW SW))) (Sub (Add (Div 0.21381983549760286
+         SRT) (Mul CN SRT)) (Mul (Add BN CSD) (Add
+         NW NDD)))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116508.6 Adjusted=8.956483E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Mul
+     NW NDD)) (Add (Sub CN NW) (Div NW CSW))))
+     (Sub (Add (Div (Mul NRT SDD) (Sub CSW NDD))
+         (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+             (Add CSW SW))) (Sub (Add (Div 0.21381983549760286
+         SRT) (Mul CN SRT)) (Mul (Add BN CSD) (Add
+         NW NDD)))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116506.8 Adjusted=8.9564986E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Mul
+     NW NDD)) (Add (Sub CN NW) (Div NW CSW))))
+     (Sub (Add (Div (Mul NRT SDD) (Sub CN NW))
+         (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+             (Add CSW SW))) (Sub (Add (Div 0.21381983549760286
+         SRT) (Mul CN SRT)) (Mul (Add BN CSD) (Add
+         NW NDD)))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116135.0 Adjusted=8.959482E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Mul
+     NW NDD)) (Add (Sub CN NW) (Div NW CSW))))
+     (Sub (Add (Div (Mul NRT SDD) (Div NDD NRET))
+         (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Mul (Add BN CSD) (Sub CSRT 0.21381983549760286)))
+             (Add CSW SW))) (Sub (Add (Div 0.21381983549760286
+         SRT) (Mul CN SRT)) (Mul (Add BN CSD) (Add
+         NW NDD)))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1116126.2 Adjusted=8.9595517E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Mul NRT SDD) (Mul
+     NW NDD)) (Add (Sub CN NW) (Div NW CSW))))
+     (Sub (Add (Div (Mul NRT SDD) (Sub CSW NDD))
+         (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Mul (Add BN CSD) (Sub CSRT 0.21381983549760286)))
+             (Add CSW SW))) (Sub 0.21381983549760286 (Mul
+         (Add BN CSD) (Add NW NDD)))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1115512.9 Adjusted=8.9644783E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Mul
+     NW NDD)) (Add (Sub CN NW) (Div NW CSW))))
+     (Sub (Add (Div (Mul NRT SDD) (Mul NW NDD))
+         (Sub (Sub (Add (Add NMRT BN) (Mul (Div NDD
+             NRET) (Mul NW NDD))) (Mul (Add NW NDD) (Sub
+             CSRT 0.21381983549760286))) (Add CSW SW)))
+         (Sub (Add (Div 0.21381983549760286 SRT) (Mul
+             CN SRT)) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1115396.4 Adjusted=8.9654145E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul CN (Mul NW NDD))
+     (Add (Sub CN NW) (Div NW CSW)))) (Sub (Add
+     (Div (Mul NRT SDD) (Mul NRT SDD)) (Sub (Sub
+     (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Mul (Mul NMRT SRT) (Sub (Add (Div
+     (Mul NRT SDD) (Sub CSW NDD)) (Sub (Sub (Add
+     (Add NMRT BN) (Mul 0.21381983549760286 NDD))
+     (Div CSRT NW)) (Add CSW SW))) (Sub (Add CSW
+     SW) (Mul (Add BN CSD) (Add NW NDD)))))) (Add
+     CSW SW))) (Sub (Add (Div NW CSW) (Mul CN
+     SRT)) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1112863.9 Adjusted=8.985817E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Mul
+     NW NDD)) (Add (Sub CN NW) (Div NW CSW))))
+     (Sub (Add (Div (Mul NRT (Add NW NDD)) (Sub
+         CN NW)) (Sub (Sub (Add (Add NMRT BN) (Mul
+         0.21381983549760286 NDD)) (Mul (Mul NMRT
+         SRT) (Sub CSRT 0.21381983549760286))) (Add
+         CSW SW))) (Sub (Add (Div 0.21381983549760286
+         SRT) (Mul CN SRT)) (Mul (Add BN CSD) (Add
+         NW NDD)))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1113808.1 Adjusted=8.978199E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Add BN CSD) (Add NW
+     NDD)) (Sub (Mul NRET NDD) (Add BN CSD)))
+     (Add (Mul (Div NDD (Add (Div 0.21381983549760286
+         (Div NW CSW)) (Mul CN CSD))) (Add (Div NRT
+         (Mul NW BN)) (Sub (Mul NDD CSW) (Sub (Div
+         NW NDD) (Sub 0.21381983549760286 (Add (Div
+         (Mul NRT SDD) (Mul NW (Add NW NW))) (Sub
+         (Mul NDD CSW) (Div NW CSW)))))))) (Add (Sub
+         CN NW) (Div NW CSW)))) (Sub (Add (Add BN
+     CSD) (Sub (Mul (Add CSRT SDD) (Mul BN NMRT))
+     (Add CSW SW))) (Sub (Add (Div 0.21381983549760286
+     SRT) (Mul CN CSD)) (Mul (Add BN CSD) NW))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1113808.1 Adjusted=8.978199E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Add BN CSD) (Add NW
+     NDD)) (Sub (Mul NRET NDD) (Add BN CSD)))
+     (Add (Mul (Div NDD (Add (Div 0.21381983549760286
+         (Div NW CSW)) (Mul CN CSD))) (Add (Div NRT
+         (Mul NW BN)) (Sub (Mul NDD CSW) (Sub (Div
+         NW NDD) (Sub 0.21381983549760286 (Add (Div
+         (Mul NRT SDD) (Mul NW (Add NW NW))) (Sub
+         (Mul NDD CSW) (Div NW CSW)))))))) (Add (Sub
+         CN NW) (Div NW CSW)))) (Sub (Add (Add BN
+     CSD) (Sub (Mul (Add CSRT SDD) (Mul BN NMRT))
+     (Add CSW SW))) (Sub (Add (Div 0.21381983549760286
+     SRT) (Mul CN CSD)) (Mul (Add BN CSD) NW))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1112716.2 Adjusted=8.9870093E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Sub
+     (Add (Mul (Add (Mul (Add BN CSD) (Add NW
+         NDD)) (Add (Sub CN NW) (Div NW CSW))) (Mul
+         0.21381983549760286 SRT)) (Sub (Mul NRET
+         NDD) (Add BN CSD))) (Add (Mul (Div NDD NRET)
+     (Mul NW NDD)) (Add (Mul NRT SDD) (Div NW
+     (Add CSW SW)))))) (Add (Sub CN NW) NRT)))
+     (Sub (Add (Div (Mul NRT SDD) (Mul NW BN))
+         (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+             (Add CSW SW))) (Sub (Mul 0.21381983549760286
+         NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1112716.2 Adjusted=8.9870093E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Sub
+     (Add (Mul (Add (Mul (Add BN CSD) (Add NW
+         NDD)) (Add (Sub CN NW) (Div NW CSW))) (Mul
+         0.21381983549760286 SRT)) (Mul 0.21381983549760286
+         NDD)) (Add (Mul (Div NDD NRET) (Mul NW NDD))
+     (Add (Mul NRT SDD) (Div NW (Add CSW SW))))))
+     (Add (Sub CN NW) NRT))) (Sub (Add (Div (Mul
+     NRT SDD) (Mul NW BN)) (Sub (Sub (Add (Add
+     NMRT BN) (Mul 0.21381983549760286 NDD)) (Mul
+     (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1112716.2 Adjusted=8.9870093E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div NDD NRET) (Mul
+     CSW NMRT)) (Add (Sub CN NW) NRT))) (Sub (Add
+     (Div (Mul NRT SDD) (Mul NW BN)) (Sub (Sub
+     (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1112649.0 Adjusted=8.987552E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Add (Mul (Sub NDD 0.21381983549760286)
+     (Mul 0.21381983549760286 SRT)) (Sub (Add
+     (Div 0.21381983549760286 SRT) (Mul CN CSD))
+     (Div 0.21381983549760286 SRT))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Div (Mul NRT SDD)
+     (Add (Mul (Sub NDD 0.21381983549760286) (Mul
+         0.21381983549760286 SRT)) (Sub (Add (Div
+         0.21381983549760286 SRT) (Mul CN CSD)) (Add
+         BN CSD)))) (Sub (Sub (Add (Add NMRT BN) (Mul
+     0.21381983549760286 NDD)) (Mul (Mul NMRT
+     SRT) (Sub CSRT 0.21381983549760286))) (Add
+     CSW SW))) (Sub (Mul 0.21381983549760286 NDD)
+     (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1112648.9 Adjusted=8.9875533E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div (Mul NRT SDD)
+     (Sub CSW NDD)) (Sub (Add (Mul (Add (Mul (Add
+     BN CSD) (Add NW NDD)) (Add (Sub CN NW) (Div
+     NW CSW))) (Mul 0.21381983549760286 SRT))
+     (Sub (Mul NRET NDD) (Add BN CSD))) (Add (Mul
+     (Div NDD NRET) (Mul NW NDD)) (Add (Mul NRT
+     SDD) (Div NW (Add CSW SW)))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Div (Mul NRT SDD)
+     (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+         NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+         (Add BN CSD))) (Add (Mul CN (Mul NW NDD))
+         (Add (Sub CN NW) (Div NW CSW)))) (Sub (Add
+         (Div (Add BN CSD) (Mul NRT SDD)) (Sub (Sub
+         (Add (Add BN CSD) (Mul 0.21381983549760286
+             NDD)) (Div NW CSW)) (Add CSW SW))) (Sub (Add
+         (Div NW CSW) (Mul CN SRT)) (Mul (Add BN CSD)
+         (Add NW NDD)))))) (Sub (Sub (Add (Add NMRT
+     BN) (Mul 0.21381983549760286 NDD)) (Mul (Mul
+     NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1112648.9 Adjusted=8.9875533E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+     (Add BN CSD))) (Add (Mul (Div (Mul NRT SDD)
+     (Sub CSW NDD)) (Sub (Add (Mul (Add (Mul (Add
+     BN CSD) (Add NW NDD)) (Add (Sub CN NW) (Div
+     NW CSW))) (Mul 0.21381983549760286 SRT))
+     (Sub (Mul NRET NDD) (Add BN CSD))) (Add (Mul
+     (Div NDD NRET) (Mul NW NDD)) (Add (Mul NRT
+     SDD) (Div NW (Add CSW SW)))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Div (Mul NRT SDD)
+     (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+         NRT) (Sub (Mul (Add BN CSD) (Add NW NDD))
+         (Add BN CSD))) (Add (Mul CN (Mul NW NDD))
+         (Add (Sub CN NW) (Div NW CSW)))) (Sub (Add
+         (Div (Add BN CSD) (Mul NRT SDD)) (Sub (Sub
+         (Add (Add BN CSD) (Mul 0.21381983549760286
+             NDD)) (Div NW CSW)) (Add CSW SW))) (Sub (Add
+         (Div NW CSW) (Mul CN SRT)) (Mul (Add BN CSD)
+         (Add NW NDD)))))) (Sub (Sub (Add (Add NMRT
+     BN) (Mul 0.21381983549760286 NDD)) (Mul (Mul
+     NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109998.5 Adjusted=9.009013E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Mul (Add BN CSD) (Sub CSW NDD))
+         (Add (Sub CN NW) (Div NW CSW))) NRET) (Sub
+     (Mul NRET NDD) (Add BN CSD))) (Add (Sub CN
+     NW) (Add (Mul NRT SDD) (Div NW (Add CSW SW))))))
+     (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109998.5 Adjusted=9.009013E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Mul (Add BN CSD) (Sub CSW NDD))
+         (Add (Sub CN NW) (Div NW CSW))) NRET) (Sub
+     (Mul NRET NDD) (Add BN CSD))) (Add (Sub CN
+     NW) (Mul (Add (Div (Mul NRT SDD) (Mul (Add
+     NW NDD) (Mul 0.21381983549760286 SRT))) (Sub
+     (Mul NDD CSW) (Div NW CSW))) (Sub CSRT 0.21381983549760286)))))
+     (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109998.5 Adjusted=9.009013E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Add CSW SW) (Add (Sub CN NW) (Div
+         NW CSW))) NRET) (Sub (Mul NRET NDD) (Add
+     BN CSD))) (Add (Sub CN NW) (Add (Mul NRT
+     SDD) (Div NW (Add CSW SW)))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul (Div CSRT NW) (Add
+     NW NDD)) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109998.5 Adjusted=9.009013E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Div NW CSW) (Add (Sub CN NW) (Div
+         NW CSW))) NRET) (Sub (Mul NRET NDD) (Add
+     BN CSD))) (Add (Sub CN NW) (Mul (Add (Div
+     (Mul (Add (Mul (Add BN CSD) (Add NW NDD))
+         (Mul NMRT SRT)) (Mul 0.21381983549760286
+         SRT)) (Mul (Add NW NDD) (Mul 0.21381983549760286
+     SRT))) (Sub (Mul NDD CSW) (Div NW CSW)))
+     (Sub CSRT 0.21381983549760286))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109938.1 Adjusted=9.009503E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Mul
+     NMRT SRT) (Add (Sub CN NW) (Add (Mul NRT
+     SDD) (Div NW (Add CSW SW)))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109938.1 Adjusted=9.009503E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Mul
+     NMRT SRT) (Add (Add CSW SW) (Add (Mul NRT
+     SDD) (Div NW (Add CSW SW)))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109938.1 Adjusted=9.009503E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Mul
+     NMRT SRT) (Add (Add CSW SW) (Add (Mul NRT
+     SDD) (Div NW (Add CSW SW)))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109938.1 Adjusted=9.009503E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Mul
+     NMRT SRT) (Add (Add CSW SW) (Add (Mul NRT
+     SDD) (Div NW (Add CSW SW)))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109938.1 Adjusted=9.009503E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Mul (Add NW NDD) (Mul 0.21381983549760286
+         SRT)) NRET) (Sub (Mul NRET NDD) (Mul (Sub
+     (Add (Mul (Sub NDD 0.21381983549760286) NRT)
+         (Sub (Mul (Sub (Mul (Add BN CSD) (Add NW
+             NDD)) (Add BN CSD)) (Add NW NDD)) (Add BN
+             CSD))) (Add (Mul (Div NDD NRET) (Sub (Mul
+     NMRT SRT) (Add (Sub CN NW) (Add (Mul NRT
+     SDD) SDD)))) (Add (Sub CN NW) NRT))) (Sub
+     (Add (Mul 0.21381983549760286 NDD) (Sub (Sub
+         (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Add NW NDD)))))))
+     (Add (Sub CN NW) (Mul (Add BN (Mul NRT SDD))
+         (Sub CSRT 0.21381983549760286))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109938.1 Adjusted=9.009503E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Mul (Add BN CSD) (Sub CSW NDD))
+         (Add (Sub CN NW) (Div NW CSW))) NRET) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Mul (Sub
+     (Add (Mul (Sub NDD 0.21381983549760286) NRT)
+         (Sub (Mul (Sub (Mul (Add BN CSD) (Add NW
+             NDD)) (Add BN CSD)) (Add NW NDD)) (Add BN
+             CSD))) (Add (Mul (Div NDD NRET) (Sub (Mul
+     NMRT SRT) (Add (Sub CN NW) (Add (Mul NRT
+     SDD) SDD)))) (Add (Sub CN NW) NRT))) (Sub
+     (Add (Mul 0.21381983549760286 NDD) (Sub (Sub
+         (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Add NW NDD)))))))
+     (Add (Sub CN NW) (Mul (Add (Div (Mul NRT
+         SDD) NRT) (Sub (Mul NDD CSW) (Div NW CSW)))
+         (Sub CSRT 0.21381983549760286))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109015.6 Adjusted=9.0169976E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Mul (Add BN CSD) (Sub CSW NDD))
+         (Add (Sub CN NW) (Div NW CSW))) NRET) (Sub
+     (Mul NRET NDD) (Mul (Sub (Add (Mul (Sub NDD
+     0.21381983549760286) NRT) (Sub (Mul (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))
+     (Add NW NDD)) (Add BN CSD))) (Add (Mul (Div
+     NDD NRET) (Sub (Mul NMRT SRT) (Add BN CSD)))
+     (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+     NDD))))))) (Add (Sub CN NW) (Mul (Add (Mul
+     (Sub NDD 0.21381983549760286) NRT) (Sub (Mul
+     NDD CSW) (Div NW CSW))) (Sub CSRT 0.21381983549760286)))))
+     (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109015.6 Adjusted=9.0169976E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Mul (Add BN CSD) (Sub CSW NDD))
+         (Add (Sub CN NW) (Div NW CSW))) NRET) (Sub
+     (Mul NRET NDD) (Mul (Sub (Add (Mul (Sub NDD
+     0.21381983549760286) NRT) (Sub (Mul (Mul
+     0.21381983549760286 NDD) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Mul
+     NMRT SRT) (Add BN CSD))) (Add (Sub CN NW)
+     NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+     NDD))))))) (Add (Sub CN NW) (Mul (Add (Mul
+     (Sub NDD 0.21381983549760286) NRT) (Sub (Mul
+     NDD CSW) (Div NW CSW))) (Sub CSRT 0.21381983549760286)))))
+     (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109015.6 Adjusted=9.0169976E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Mul (Add BN CSD) (Sub CSW NDD))
+         (Add (Sub CN NW) (Div NW CSW))) NRET) (Sub
+     (Mul NRET NDD) (Mul (Sub (Add (Mul (Sub NDD
+     0.21381983549760286) NRT) (Sub (Mul (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))
+     (Add NW NDD)) (Add BN CSD))) (Add (Mul (Div
+     NDD NRET) (Sub (Mul NMRT SRT) (Add (Sub CN
+     NW) (Add (Mul NRT SDD) SDD)))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+     NDD))))))) (Add (Sub CN NW) (Mul (Add (Div
+     (Mul NRT SDD) NRT) (Sub (Mul NDD CSW) (Mul
+     (Add BN CSD) (Mul (Add BN CSD) (Div NW BN)))))
+     (Sub CSRT 0.21381983549760286))))) (Add (Sub
+     CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Add NW NDD)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1109015.6 Adjusted=9.0169976E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Add (Mul (Add BN CSD) (Sub CSW NDD))
+         (Add (Sub CN NW) (Div NW CSW))) NRET) (Sub
+     (Mul NRET NDD) (Mul (Sub (Add (Mul (Sub NDD
+     0.21381983549760286) NRT) (Sub (Mul (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))
+     (Add NW NDD)) (Add BN CSD))) (Add NW NDD))
+     (Sub (Add (Mul 0.21381983549760286 NDD) (Sub
+         (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Add (Sub CN NW) (Mul (Add (Mul
+     (Add NW NDD) NRT) (Sub (Mul NDD CSW) (Div
+     NW CSW))) (Sub CSRT 0.21381983549760286)))))
+     (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108621.0 Adjusted=9.020207E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul NDD NRET) (Sub (Mul NRET NDD) (Mul (Sub
+     (Add (Mul (Sub NDD 0.21381983549760286) NRT)
+         (Sub (Mul NMRT SRT) (Add BN CSD))) (Add (Mul
+     (Mul (Add BN CSD) (Add NW NDD)) (Sub (Mul
+     NMRT SRT) (Add BN CSD))) (Add (Sub CN NW)
+     NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+     NDD))))))) (Add (Sub CN NW) (Mul (Add (Mul
+     (Sub NDD 0.21381983549760286) NRT) (Sub (Mul
+     NDD CSW) (Div NW CSW))) (Sub CSRT 0.21381983549760286)))))
+     (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108222.1 Adjusted=9.023454E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) (Add (Mul (Div NDD NRET) (Sub (Add
+     (Mul (Mul (Sub (Mul 0.21381983549760286 NDD)
+         (Add BN CSD)) (Add NW NDD)) NRET) (Sub (Mul
+     NRET NDD) (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Add
+     BN CSD))) BN) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Sub NDD 0.21381983549760286)) (Add
+     CSW (Sub (Mul (Div CSRT NW) (Add NW NDD))
+     (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD)))))) (Sub (Mul (Div CSRT NW) (Add NW
+     NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+     NDD))))))) (Add (Sub CN NW) (Mul (Add (Div
+     (Mul NRT SDD) NRT) (Sub (Mul NDD CSW) (Mul
+     (Add BN CSD) (Div NW (Sub CN NW))))) (Sub
+     CSRT 0.21381983549760286))))) (Add (Sub CN
+     NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Add (Mul (Sub
+     NDD 0.21381983549760286) NRT) (Sub (Mul (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))
+     (Add NW NDD)) (Div CSRT NW))))) (Add CSW
+     SW))) (Sub (Mul 0.21381983549760286 NDD)
+     (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Add NW NDD) (Add (Sub CN NW) (Div NW CSW)))
+         NRET) (Sub (Sub (Mul (Add BN CSD) (Add NW
+         NDD)) (Add BN CSD)) (Mul (Sub (Add (Mul (Sub
+         NDD 0.21381983549760286) NRT) 0.21381983549760286)
+         (Add (Mul (Mul (Add BN CSD) (Add NW NDD))
+             (Sub (Mul NMRT SRT) (Add BN CSD))) (Add (Sub
+             CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Add (Sub CN NW) (Mul (Add (Mul
+         (Sub NDD 0.21381983549760286) NRT) (Sub (Mul
+         NDD CSW) (Div NW CSW))) (Sub CSRT 0.21381983549760286)))))
+         (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Add NW NDD) (Add (Sub CN NW) (Div NW CSW)))
+         NRET) (Sub (Sub (Mul (Add BN CSD) (Add NW
+         NDD)) (Add BN CSD)) (Mul (Sub (Add (Mul (Sub
+         NDD 0.21381983549760286) NRT) 0.21381983549760286)
+         (Add (Mul (Mul (Add BN CSD) (Add NW NDD))
+             (Sub (Mul NMRT SRT) (Add BN CSD))) (Add (Sub
+             CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Add (Sub CN NW) (Mul (Add (Add
+         BN CSD) (Sub (Mul NDD CSW) (Div NW CSW)))
+         (Sub CSRT 0.21381983549760286))))) (Add (Sub
+         CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Add NW NDD) (Add (Sub CN NW) (Div NW CSW)))
+         NRET) (Sub (Sub (Mul (Add BN CSD) (Add NW
+         NDD)) (Add BN CSD)) (Mul (Sub (Add (Mul (Sub
+         NDD 0.21381983549760286) NRT) 0.21381983549760286)
+         (Add (Mul (Mul (Add BN CSD) (Add NW NDD))
+             (Sub (Mul NMRT SRT) (Add BN CSD))) (Add (Sub
+             CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Add (Sub CN NW) (Mul (Add (Add
+         BN CSD) (Sub (Mul NDD CSW) (Add BN CSD)))
+         (Sub CSRT 0.21381983549760286))))) (Add (Sub
+         CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Mul
+         (Div CSRT NW) (Add NW NDD)) NRET) (Sub (Sub
+         (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))
+         (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+             NRT) 0.21381983549760286) (Add (Mul (Mul
+             (Add BN CSD) (Add NW NDD)) (Sub (Mul NMRT
+             SRT) (Add BN CSD))) (Add (Sub CN NW) NRT)))
+             (Sub (Add (Mul 0.21381983549760286 NDD) (Sub
+                 (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+                     NDD)) (Sub NDD 0.21381983549760286)) (Add
+                 CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+                 NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+                 NDD))))))) (Add (Sub CN NW) (Mul (Add (Add
+         BN CSD) (Sub (Mul NDD CSW) (Div NW CSW)))
+         (Sub CSRT 0.21381983549760286))))) (Add (Sub
+         CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Add NW NDD) (Add (Sub CN NW) (Div NW CSW)))
+         NRET) (Sub (Sub (Mul (Add BN CSD) (Add NW
+         NDD)) (Mul (Div CSRT NW) (Add (Add BN CSD)
+         NDD))) (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+         NRT) 0.21381983549760286) (Add (Mul (Mul
+         (Add BN CSD) (Add NW NDD)) (Sub (Mul NMRT
+         SRT) (Add BN CSD))) (Add (Sub CN NW) NRT)))
+         (Sub (Add (Mul 0.21381983549760286 NDD) (Sub
+             (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+                 NDD)) (Sub NDD 0.21381983549760286)) (Add
+             CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+             NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+             NDD))))))) (Add (Sub CN NW) (Mul (Add (Add
+         BN CSD) (Sub (Mul NDD CSW) (Div NW CSW)))
+         (Sub CSRT 0.21381983549760286))))) (Add (Sub
+         CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Mul (Add BN CSD) (Sub CSW NDD)) (Add (Sub
+         CN NW) (Div NW CSW))) NRET) (Sub (Sub 0.21381983549760286
+         (Add BN CSD)) (Mul (Sub (Add (Mul (Add (Div
+         (Mul NRT SDD) NRT) (Sub (Mul NDD CSW) (Mul
+         (Add BN CSD) (Div NW (Sub CN NW))))) NRT)
+         (Sub (Sub CN NW) (Add BN CSD))) (Add (Mul
+         (Mul (Add BN CSD) (Add NW NDD)) (Sub (Mul
+         NMRT SRT) (Add BN CSD))) (Add (Sub CN NW)
+         NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Add (Sub CN NW) (Mul (Add (Mul
+         (Sub NDD 0.21381983549760286) NRT) (Sub (Mul
+         NDD CSW) (Div NW CSW))) (Sub CSRT 0.21381983549760286)))))
+         (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Mul NMRT SRT) (Sub CSRT 0.21381983549760286)))
+     (Add CSW SW))) (Sub (Mul 0.21381983549760286
+     NDD) (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Mul (Add BN CSD) (Sub CSW NDD)) (Add (Sub
+         CN NW) (Div NW CSW))) NRET) (Sub (Sub (Sub
+         NDD 0.21381983549760286) (Add BN CSD)) (Mul
+         (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+             NRT) (Sub (Sub CN NW) (Add BN CSD))) (Add
+             (Mul (Mul (Add BN CSD) (Add NW NDD)) (Sub
+                 (Mul NMRT SRT) (Add BN CSD))) (Add (Sub CN
+             NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Div CSRT NW))) (Add (Sub CN NW)
+         NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul (Div
+     NW CSW) NDD)) (Mul (Mul NMRT SRT) (Sub CSRT
+     0.21381983549760286))) (Add CSW SW))) (Sub
+     (Mul 0.21381983549760286 NDD) (Mul (Add BN
+     CSD) (Add NW NDD)))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Sub (Sub
+         (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW)) (Sub (Sub (Mul (Add BN CSD) (Add
+         NW NDD)) (Add BN CSD)) (Mul (Sub (Add (Mul
+         (Sub NDD 0.21381983549760286) NRT) 0.21381983549760286)
+         (Add (Mul (Mul (Add BN CSD) (Add NW NDD))
+             (Sub (Mul NMRT SRT) (Add BN CSD))) (Add (Sub
+             CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Add (Sub CN NW) (Mul (Add (Mul
+         (Sub NDD 0.21381983549760286) NRT) (Sub (Mul
+         NDD CSW) (Div NW CSW))) (Sub CSRT 0.21381983549760286)))))
+         (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul (Add
+     (Mul (Sub NDD 0.21381983549760286) NRT) (Sub
+     (Mul (Sub (Mul (Add BN CSD) (Add (Add NW
+         NDD) NDD)) BN) (Add NW NDD)) (Add BN CSD)))
+     NDD)) (Mul (Mul NMRT SRT) (Mul (Sub (Mul
+     (Add BN CSD) (Add NW NDD)) (Add BN CSD))
+     (Add NW NDD)))) (Add CSW SW))) (Sub (Mul
+     0.21381983549760286 NDD) (Mul (Add BN CSD)
+     (Add NW NDD)))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Add BN CSD) (Add (Sub CN NW) (Div NW CSW)))
+         NRET) (Sub (Sub (Sub NDD 0.21381983549760286)
+         (Add BN CSD)) (Mul (Sub (Add (Mul (Sub NDD
+         0.21381983549760286) NRT) (Sub (Sub CN NW)
+         (Add BN CSD))) (Add (Mul (Mul (Add BN CSD)
+         (Add NW NDD)) (Sub (Mul NMRT SRT) (Add BN
+         CSD))) (Add (Sub CN NW) NRT))) (Sub (Add
+         (Mul 0.21381983549760286 NDD) (Sub (Sub (Add
+         0.21381983549760286 (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Div CSRT NW))) (Add (Sub CN NW)
+         NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul (Div
+     NW CSW) NDD)) (Mul (Mul NMRT SRT) (Sub CSRT
+     0.21381983549760286))) (Add CSW SW))) (Sub
+     (Mul 0.21381983549760286 NDD) (Mul (Add BN
+     CSD) (Add NW NDD)))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108073.2 Adjusted=9.024666E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Mul (Add BN CSD) (Sub CSW NDD)) (Add (Sub
+         CN NW) (Div NW CSW))) NRET) (Sub (Sub (Mul
+         (Add BN CSD) (Add NW NDD)) (Add BN CSD))
+         (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+             NRT) (Sub (Sub CN NW) (Add BN CSD))) (Add
+             (Mul (Mul (Add BN CSD) (Add NW NDD)) (Sub
+                 (Mul NMRT SRT) (Add BN CSD))) (Add (Sub CN
+             NW) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+             NDD)) (Sub NDD 0.21381983549760286)) (Sub
+             (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))))
+             (Sub (Add (Mul 0.21381983549760286 NDD) (Sub
+                 (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+                     NDD)) (Sub NDD 0.21381983549760286)) (Add
+                 CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+                 NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+                 NDD))))))) (Add (Sub CN NW) (Mul (Add (Mul
+         (Sub NDD 0.21381983549760286) NRT) (Sub (Mul
+         NDD CSW) (Div NW CSW))) (Sub CSRT 0.21381983549760286)))))
+         (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul (Div
+     NW CSW) NDD)) (Mul (Mul NMRT SRT) (Sub CSRT
+     0.21381983549760286))) (Add CSW SW))) (Sub
+     (Mul 0.21381983549760286 NDD) (Mul (Add BN
+     CSD) (Add NW NDD)))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108071.0 Adjusted=9.0246846E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Add NW NDD) (Add (Sub CN NW) (Div NW CSW)))
+         NRET) (Sub (Add NW NDD) (Mul (Sub (Add (Mul
+         (Sub NDD 0.21381983549760286) NRT) 0.21381983549760286)
+         (Add (Mul (Mul (Add BN CSD) (Add NW NDD))
+             (Sub (Mul NMRT SRT) (Add BN CSD))) (Add (Sub
+             CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Sub NDD 0.21381983549760286)))
+         (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul (Add
+     (Mul (Sub NDD 0.21381983549760286) NRT) (Sub
+     (Mul (Sub (Mul (Add BN CSD) (Add NW NDD))
+         BN) (Add NW NDD)) (Add (Mul (Mul (Add BN
+     CSD) (Add NW NDD)) (Sub (Mul NMRT SRT) (Add
+     BN CSD))) (Add (Sub CN NW) NRT)))) NDD))
+     (Mul (Sub CSRT 0.21381983549760286) (Sub
+         CSRT 0.21381983549760286))) (Add CSW SW)))
+     (Sub (Mul 0.21381983549760286 NDD) (Mul (Add
+         BN CSD) (Add NW NDD)))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108071.0 Adjusted=9.0246846E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Sub CSRT
+         0.21381983549760286) (Sub (Sub (Mul (Add
+         BN CSD) (Add NW NDD)) (Add BN CSD)) (Mul
+         (Sub (Sub NDD 0.21381983549760286) (Add (Mul
+             (Mul (Add BN CSD) (Add NW NDD)) (Sub (Mul
+             NMRT SRT) (Add BN CSD))) (Add (Sub CN NW)
+             NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Add NW NDD))) (Add (Sub CN NW)
+         NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+     NDD)) (Mul (Sub NDD 0.21381983549760286)
+     (Sub CSRT 0.21381983549760286))) (Add CSW
+     SW))) (Sub (Mul 0.21381983549760286 NDD)
+     (Mul (Add BN CSD) (Add NW NDD)))))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108071.0 Adjusted=9.0246846E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Add NW NDD) (Add (Sub CN NW) (Div NW CSW)))
+         NRET) (Sub (Add NW NDD) (Mul (Sub (Add (Mul
+         (Sub NDD 0.21381983549760286) NRT) 0.21381983549760286)
+         (Add (Mul (Mul (Add BN CSD) (Add NW NDD))
+             (Sub (Mul NMRT SRT) (Add BN CSD))) (Add (Sub
+             CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Sub NDD 0.21381983549760286)))
+         (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul (Add
+     (Mul (Sub NDD 0.21381983549760286) NRT) (Sub
+     (Mul (Sub (Mul (Add BN CSD) (Add NW NDD))
+         BN) (Add NW NDD)) (Add (Mul (Mul (Add BN
+     CSD) (Add NW NDD)) (Sub (Mul NMRT SRT) (Add
+     BN CSD))) (Add (Sub CN NW) NRT)))) NDD))
+     (Mul (Sub CSRT 0.21381983549760286) (Sub
+         CSRT 0.21381983549760286))) (Add CSW SW)))
+     (Sub (Mul 0.21381983549760286 NDD) (Mul (Add
+         BN CSD) (Add NW NDD)))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1108071.0 Adjusted=9.0246846E-7 Hits=0
+Tree 0:
+ (Mul (Sub (Add (Mul (Sub NDD 0.21381983549760286)
+     NRT) (Sub (Mul (Sub (Mul (Add BN CSD) (Add
+     NW NDD)) (Add BN CSD)) (Add NW NDD)) (Sub
+     (Mul (Add BN CSD) (Add NW NDD)) (Add BN CSD))))
+     (Add (Mul (Div NDD NRET) (Sub (Add (Mul (Add
+         (Add NW NDD) (Add (Sub CN NW) (Div NW CSW)))
+         NRET) (Sub (Add NW NDD) (Mul (Sub (Add (Mul
+         (Sub NDD 0.21381983549760286) NRT) 0.21381983549760286)
+         (Add (Mul (Mul (Add BN CSD) (Add NW NDD))
+             (Sub (Mul NMRT SRT) (Add BN CSD))) (Add (Sub
+             CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+         NDD) (Sub (Sub (Add (Add NMRT BN) (Mul 0.21381983549760286
+         NDD)) (Sub NDD 0.21381983549760286)) (Add
+         CSW SW))) (Sub (Mul (Div CSRT NW) (Add NW
+         NDD)) (Mul (Add BN CSD) (Mul 0.21381983549760286
+         NDD))))))) (Sub NDD 0.21381983549760286)))
+         (Add (Sub CN NW) NRT))) (Sub (Add (Mul 0.21381983549760286
+     NDD) (Sub (Sub (Add (Add NMRT BN) (Mul (Add
+     (Mul (Sub NDD 0.21381983549760286) NRT) (Sub
+     (Mul (Sub (Mul (Add BN CSD) (Add NW NDD))
+         BN) (Add NW NDD)) (Add (Mul (Mul (Add BN
+     CSD) (Add NW NDD)) (Sub (Mul NMRT SRT) (Add
+     BN CSD))) (Add (Sub CN NW) NRT)))) NDD))
+     (Mul (Sub CSRT 0.21381983549760286) (Sub
+         CSRT 0.21381983549760286))) (Add CSW SW)))
+     (Sub (Mul 0.21381983549760286 NDD) (Mul (Add
+         BN CSD) (Add NW NDD)))))

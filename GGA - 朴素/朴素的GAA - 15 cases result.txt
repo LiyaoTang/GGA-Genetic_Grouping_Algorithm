@@ -1,0 +1,123 @@
+"C:\Program Files (x86)\Java\jdk1.7.0_55\bin\java" -Didea.launcher.port=7534 "-Didea.launcher.bin.path=G:\IntelliJ IDEA 2016.2\bin" -Dfile.encoding=UTF-8 -classpath "G:\GGA - ∆”Àÿ\bin;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\deploy.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\access-bridge-32.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\dnsns.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\jaccess.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\localedata.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\sunec.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\sunjce_provider.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\sunmscapi.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\sunpkcs11.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\ext\zipfs.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\javaws.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\jfxrt.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\management-agent.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\plugin.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.7.0_55\jre\lib\rt.jar;G:\GGA - ∆”Àÿ\libraries\itext-1.2.jar;G:\GGA - ∆”Àÿ\libraries\jcommon-1.0.0.jar;G:\GGA - ∆”Àÿ\libraries\jfreechart-1.0.1.jar;G:\GGA - ∆”Àÿ\libraries\jzlib-1.0.7.jar;G:\GGA - ∆”Àÿ\libraries\commons-math3-3.0.jar;G:\IntelliJ IDEA 2016.2\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain com.fay.GGA.GGA_main
+case1	
+initial best = 44227.0
+initial best = 48489.0
+initial best = 52839.0
+initial best = 48397.0
+time	1.342
+average	34292
+
+case2	
+initial best = 41601.0
+initial best = 38167.0
+initial best = 38628.0
+initial best = 39197.0
+time	1.69125
+average	25965
+
+case3	
+initial best = 170990.0
+initial best = 167344.0
+initial best = 165619.0
+initial best = 178454.0
+time	8.198
+average	141253
+
+case4	
+initial best = 335181.0
+initial best = 351008.0
+initial best = 331198.0
+initial best = 336987.0
+time	14.522
+average	260657
+
+case5	
+initial best = 360338.0
+initial best = 359546.0
+initial best = 359039.0
+initial best = 373721.0
+time	18.76375
+average	280208
+
+case6	
+initial best = 476343.0
+initial best = 483591.0
+initial best = 461253.0
+initial best = 467833.0
+time	24.9915
+average	367984
+
+case7	
+initial best = 542589.0
+initial best = 574073.0
+initial best = 506230.0
+initial best = 533046.0
+time	35.16025
+average	419756
+
+case8	
+initial best = 866731.0
+initial best = 860245.0
+initial best = 804343.0
+initial best = 811788.0
+time	48.73675
+average	647536
+
+case9	
+initial best = 919042.0
+initial best = 976477.0
+initial best = 902921.0
+initial best = 912901.0
+time	59.08525
+average	823842
+
+case10	
+initial best = 1438739.0
+initial best = 1382135.0
+initial best = 1460358.0
+initial best = 1442969.0
+time	87.96325
+average	1234675
+
+case11	
+initial best = 1552435.0
+initial best = 1528846.0
+initial best = 1552042.0
+initial best = 1567507.0
+time	106.82675
+average	1369674
+
+case12	
+initial best = 2205095.0
+initial best = 2125115.0
+initial best = 2194362.0
+initial best = 2180796.0
+time	146.719
+average	1943137
+
+case13	
+initial best = 4038919.0
+initial best = 3872180.0
+initial best = 3947328.0
+initial best = 4023288.0
+time	265.72525
+average	3383814
+
+case14	
+initial best = 4570930.0
+initial best = 4976264.0
+initial best = 4859113.0
+initial best = 4738131.0
+time	318.98825
+average	4103141
+
+case15	
+initial best = 4289514.0
+initial best = 4737912.0
+initial best = 4598567.0
+initial best = 4515111.0
+time	344.6635
+average	3822588
+
+
+Process finished with exit code 0
